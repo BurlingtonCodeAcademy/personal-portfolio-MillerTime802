@@ -1,0 +1,33 @@
+.Nav{
+    display: flex;
+    justify-content: space-between;
+   
+}
+.dropdown {
+    position: relative;
+    display: inline-block;
+    color:lightsteelblue;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:lightslategray;
+    min-width: 160px;
+    padding: 12px 16px;
+    color:lightskyblue;
+   
+    
+  }
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+
+  li{
+      margin-top: 2vh;
+     color:lightskyblue
+      
+  }
+ 
+ 
