@@ -1,14 +1,11 @@
-.hobbies-center{
-   margin-left:auto;
-   margin-right:auto;
-   width:20em
-
-    
+.hobbies-center {
+  margin-left: auto;
+  margin-right: auto;
+  width: 20em;
 }
 
-.title{
-    margin-top:75px;
-    margin-bottom:50px;
-    text-decoration: underline;
+.title {
+  margin-top: 75px;
+  margin-bottom: 50px;
+  text-decoration: underline;
 }
-    

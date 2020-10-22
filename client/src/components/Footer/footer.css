@@ -1,11 +1,10 @@
-.footer{
-    height:100px;
-    text-align:center;
-   padding: 20px;
-    background-color: lightsteelblue;
+.footer {
+  height: 100px;
+  text-align: center;
+  padding: 20px;
+  background-color: lightsteelblue;
 }
 
-h6{
-    margin:0px
+h6 {
+  margin: 0px;
 }
-

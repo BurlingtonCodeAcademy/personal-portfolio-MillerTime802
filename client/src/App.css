@@ -1,32 +1,35 @@
-html, body, #root {
-    height: 100%;
-    margin: 0;
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+body {
+  background-color: lightslategray;
+  color: midnightblue;
+}
+h1,
+h2,
+h3,
+h4 {
+  margin: 0;
+}
 
-}
-body{
-    background-color: lightslategray;
-    color:midnightblue
-}
-h1, h2, h3, h4 {
-    margin: 0;
-}
-
-.App{
-    display: block;
-  
+.App {
+  display: block;
 }
 .center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-   margin-top:5vh;
-  }
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 5vh;
+}
 
-  .wrapper{
-      min-height:100%;
-      margin-bottom: -100px;
-      margin-top: -18px;
-  }
-  .h3{
-      text-align: center;
-  }
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -100px;
+  margin-top: -18px;
+}
+.h3 {
+  text-align: center;
+}
