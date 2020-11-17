@@ -1,0 +1,29 @@
+.resume-center {
+  text-align: center;
+}
+
+.name {
+  margin-top: 75px;
+}
+
+.h4 {
+  text-decoration: underline;
+}
+
+.flex {
+  display: flex;
+  justify-content: space-around;
+
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+}
+p {
+  color: lightskyblue;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30em;
+}
+a {
+  color: lightskyblue;
+}
